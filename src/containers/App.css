@@ -1,0 +1,14 @@
+
+
+@font-face {
+	font-family: 'Square Peg', cursive;
+	font-style: normal;
+	font-weight: normal;
+	src: url('https://fonts.googleapis.com/css2?family=Square+Peg&display=swap');
+}
+
+h1 {
+	font-family:  'Square Peg', cursive;
+	font-weight:  200;
+	color: #0ccac4;
+}
